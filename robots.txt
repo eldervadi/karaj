@@ -1,1 +1,2 @@
 Sitemap: https://karaj.robot-telegram.ir/sitemap.xml
+Sitemap: https://karaj.robot-telegram.ir/img.xml
